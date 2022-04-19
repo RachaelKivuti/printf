@@ -117,9 +117,11 @@ adds a 0 in front of octal conversions that don't begin with one, and a 0x or 0X
 
 All the above options work well together.<br>
 
---
+---
 
 Authors
 ---
 
 
+**RachaelKivuti:**
+**otienorichard:**
