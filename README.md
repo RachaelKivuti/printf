@@ -35,6 +35,7 @@ These are all the tasks of this project, the ones that are completed link to the
 Write a function that produces output according to format.<br>
 c : converts input into a character<br>
 s : converts input into a string<br>
+
 [1. Education is when you read the fine print. Experience is what you get if you don't](https://github.com/RachaelKivuti/printf/blob/main/print_nums.c)
 ---
 Handle the following conversion specifiers:<br>
