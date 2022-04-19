@@ -1,5 +1,5 @@
-0x11. C - printf
-Description
+**0x11. C - printf**
+**Description**
 This team project is part of the first year curriculum of ALX _printf replicates the C standard library printf() function.
 
 What you should learn from this project:
