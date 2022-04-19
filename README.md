@@ -123,6 +123,6 @@ Authors
 ---
 
 
-**RachaelKivuti:**
+**RachaelKivuti:** kivutingatha@gmail.com
 <br>
 **otienorichard:** otienorichard505@gmail.com
