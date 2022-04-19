@@ -40,31 +40,46 @@ s : converts input into a string<br>
 
 [1. Education is when you read the fine print. Experience is what you get if you don't](https://github.com/RachaelKivuti/printf/blob/main/print_nums.c)
 ---
-Handle the following conversion specifiers:<br>
-d : converts input into a base 10 integer<br>
-i : converts input into an integer<br>
-2. Just because it's in print doesn't mean it's the gospel<br>
-Create a man page for your function<br>
-3. With a face like mine, I do better in print
-Handle the following conversion specifiers:<br>
-b : the unsigned int argument is converted to binary<br>
-4. What one has not experienced, one will never understand in print<br>
-Handle the following conversion specifiers:<br>
-u : converts the input into an unsigned integer<br>
-o : converts the input into an octal number<br>
-x : converts the input into a hexadecimal number<br>
-X : converts the input into a hexadecimal number with capital letters<br>
-5. Nothing in fine print is ever good news<br>
-Use a local buffer of 1024 chars in order to call write as little as possible.<br>
-6. My weakness is wearing too much leopard print<br>
-Handle the following custom conversion specifier:<br>
-S : prints the string<br>
-Non printable characters (0 < ASCII value < 32 or >= 127) are printed this way: \x, followed by the ASCII code value in hexadecimal (upper case - always 2 characters)<br>
-7. How is the world ruled and led to war? Diplomats lie to journalists and believe these lies when they see them in print<br>
-Handle the following conversion specifier:<br>
-p : int input is converted to a pointer address<br>
-8. The big print gives and the small print takes away<br>
-Handle the following flag characters for non-custom conversion specifiers:<br>
++ Handle the following conversion specifiers:<br>
+  d : converts input into a base 10 integer<br>
+  i : converts input into an integer<br>
+
+[2. Just because it's in print doesn't mean it's the gospel](https://github.com/RachaelKivuti
+/printf/blob/main/man_3_printf)
+---
++ Create a man page for your function<br>
+
+[3. With a face like mine, I do better in print](https://github.com/RachaelKivuti/printf/blob/main/print_bases.c)
+---
++ Handle the following conversion specifiers:<br>
+  b : the unsigned int argument is converted to binary<br>
+
+[4. What one has not experienced, one will never understand in print](https://github.com/RachaelKivuti/printf/blob/main/print_bases.c)
+---
++ Handle the following conversion specifiers:<br>
+   u : converts the input into an unsigned integer<br>
+   o : converts the input into an octal number<br>
+   x : converts the input into a hexadecimal number<br>
+   X : converts the input into a hexadecimal number with capital letters<br>
+
+[5. Nothing in fine print is ever good news](https://github.com/RachaelKivuti/printf/blob/main/write_funcs.c)
+---
++ Use a local buffer of 1024 chars in order to call write as little as possible.<br>
+
+[6. My weakness is wearing too much leopard print](https://github.com/RachaelKivuti/printf/blob/main/print_custom.c)
+---
++ Handle the following custom conversion specifier:<br>
+   S : prints the string<br>
+   Non printable characters (0 < ASCII value < 32 or >= 127) are printed this way: \x, followed by the ASCII code value in hexadecimal (upper case - always 2 characters)<br>
+
+[7. How is the world ruled and led to war? Diplomats lie to journalists and believe these lies when they see them in print](https://github.com/RachaelKivuti/printf/blob/main/print_address.c)
+---
++ Handle the following conversion specifier:<br>
+   p : int input is converted to a pointer address<br>
+
+[8. The big print gives and the small print takes away](https://github.com/RachaelKivuti/printf/blob/main/get_flag.c)
+---
++ Handle the following flag characters for non-custom conversion specifiers:<br>
 + : adds a + in front of signed positive numbers and a - in front of signed negative numbers<br>
 space : same as +, but adds a space (is overwritten by +)<br>
 adds a 0 in front of octal conversions that don't begin with one, and a 0x or 0X for x or X conversions<br>
