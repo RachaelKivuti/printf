@@ -123,5 +123,6 @@ Authors
 ---
 
 
-**RachaelKivuti:**<br>
-**otienorichard:**<br>otienorichard505@gmail.com
+**RachaelKivuti:**
+<br>
+**otienorichard:** otienorichard505@gmail.com
