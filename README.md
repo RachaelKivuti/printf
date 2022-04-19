@@ -27,7 +27,9 @@ This team project is part of the first year curriculum of ALX. _printf replicate
 + ```_printf("Hello, ALX\n")``` prints "Hello, ALX", followed by a new line<br>
 + ```_printf("%s", "Hello")``` prints "Hello"<br>
 + ```_printf("This is a number: %d", 98)``` prints "This is a number: 98"
-Tasks<br>
+
+**Tasks**
+---
 These are all the tasks of this project, the ones that are completed link to the corresponding files.<br>
 
 [0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life](https://github.com/RachaelKivuti/printf/blob/main/_printf.c)
