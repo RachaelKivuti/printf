@@ -83,23 +83,43 @@ s : converts input into a string<br>
 space : same as +, but adds a space (is overwritten by +)<br>
 adds a 0 in front of octal conversions that don't begin with one, and a 0x or 0X for x or X conversions<br>
 ---
-**[9. Sarcasm is lost in print]**<br>
-Handle the following length modifiers for non-custom conversion specifiers:<br>
-l : converts d, i, u, o, x, X conversions in short signed or unsigned ints<br>
-h : converts d, i, u, o, x, X conversions in long signed or unsigned ints<br>
-**[10. Print some money and give it to us for the rain forests]**<br>
-Handle the field width for non-custom conversion specifiers.<br>
-**[11. The negative is the equivalent of the composer's score, and the print the performance]**<br>
+[9. Sarcasm is lost in print]
+---
++ Handle the following length modifiers for non-custom conversion specifiers:<br>
+    l : converts d, i, u, o, x, X conversions in short signed or unsigned ints<br>
+    h : converts d, i, u, o, x, X conversions in long signed or unsigned ints<br>
+
+[10. Print some money and give it to us for the rain forests]
+---
++ Handle the field width for non-custom conversion specifiers.<br>
+
+[11. The negative is the equivalent of the composer's score, and the print the performance]
+---
 + Handle the precision for non-custom conversion specifiers.<br>
-**[12. It's depressing when you're still around and your albums are out of print]**<br>
+
+[12. It's depressing when you're still around and your albums are out of print]
+---
 + Handle the 0 flag character for non-custom conversion specifiers.<br>
-**[13. Every time that I wanted to give up, if I saw an interesting textile, print what ever, suddenly I would see a collection]**<br>
+
+[13. Every time that I wanted to give up, if I saw an interesting textile, print what ever, suddenly I would see a collection]
+---
 + Handle the - flag character for non-custom conversion specifiers.<br>
-14. Print is the sharpest and the strongest weapon of our party<br>
+
+[14. Print is the sharpest and the strongest weapon of our party](https://github.com/RachaelKivuti/printf/blob/main/print_custom.c)
+---
 + Handle the following custom conversion specifier:<br>
-r : prints the reversed string<br>
-15. The flood of print has turned reading into a process of gulping rather than savoring<br>
+   r : prints the reversed string<br>
+
+[15. The flood of print has turned reading into a process of gulping rather than savoring](https://github.com/RachaelKivuti/printf/blob/main/print_custom.c)
+---
 + Handle the following custom conversion specifier:<br>
-R : prints the rot13'ed string<br>
+    R : prints the rot13'ed string<br>
 
 All the above options work well together.<br>
+
+--
+
+Authors
+---
+
+
