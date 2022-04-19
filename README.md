@@ -1,6 +1,6 @@
-#0x11. C - printf
+__0x11. C - printf
 
-Description
+[**Description**]
 This team project is part of the first year curriculum of ALX _printf replicates the C standard library printf() function.
 
 What you should learn from this project:
@@ -12,7 +12,7 @@ Managing a lot of files and finding a good workflow
 Prototype
 int _printf(const char *format, ...);
 
-Usage
+[**Usage**]
 Prints a string to the standard output, according to a given format
 Returns the number of characters in the output string on success, -1 otherwise
 Call it this way: _printf("format string", arguments...) where format string can contain conversion specifiers and flags, along with regular characters
