@@ -11,8 +11,8 @@ Applying variadic functions to a big project<br>
 The complexities of printf<br>
 Managing a lot of files and finding a good workflow<br>
 
-<hr>
-**Prototype**<br>
+
+**Prototype**
 ---
 int _printf(const char *format, ...);
 
