@@ -25,8 +25,8 @@ This team project is part of the first year curriculum of ALX. _printf replicate
 **Examples**<br>
 ---
 + ```_printf("Hello, Holberton\n")``` prints "Hello, Holberton", followed by a new line<br>
-+ ``_printf("%s", "Hello")``` prints "Hello"<br>
-+ ```_printf("This is a number: %d", 98)`` prints "This is a number: 98"
++ ```_printf("%s", "Hello")``` prints "Hello"<br>
++ ```_printf("This is a number: %d", 98)``` prints "This is a number: 98"
 Tasks<br>
 These are all the tasks of this project, the ones that are completed link to the corresponding files.<br>
 
