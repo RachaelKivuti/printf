@@ -14,7 +14,7 @@ This team project is part of the first year curriculum of ALX. _printf replicate
 
 **Prototype**
 ---
-int _printf(const char *format, ...);
+'''int _printf(const char *format, ...);'''
 
 **Usage**<br>
 ---
