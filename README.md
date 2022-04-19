@@ -38,7 +38,7 @@ These are all the tasks of this project, the ones that are completed link to the
 
 
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
-Write a function that produces output according to format.
+Write a function that produces output according to format.(https://github.com/Rachaelkivuti/printf/blob/main/_printf.c)
 c : converts input into a character
 s : converts input into a string
 
