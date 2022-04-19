@@ -21,6 +21,7 @@ int _printf(const char *format, ...);
 + Prints a string to the standard output, according to a given format<br>
 + Returns the number of characters in the output string on success, -1 otherwise<br>
 + Call it this way: _printf("format string", arguments...) where format string can contain conversion specifiers and flags, along with regular characters<br>
+
 **Examples**<br>
 ---
 _printf("Hello, Holberton\n") prints "Hello, Holberton", followed by a new line<br>
