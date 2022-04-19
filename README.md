@@ -1,7 +1,7 @@
 0x11. C - printf
 ---
 
-**WORKING ON THE PRINTF, WILL THEY WORK!**
+**WORKING ON THE PRINTF!**
 ---
 
 **Description**
