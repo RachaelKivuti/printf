@@ -44,8 +44,7 @@ s : converts input into a string<br>
   d : converts input into a base 10 integer<br>
   i : converts input into an integer<br>
 
-[2. Just because it's in print doesn't mean it's the gospel](https://github.com/RachaelKivuti
-/printf/blob/main/man_3_printf)
+[2. Just because it's in print doesn't mean it's the gospel](https://github.com/RachaelKivuti/printf/blob/main/man_3_printf)
 ---
 + Create a man page for your function<br>
 
